@@ -1,0 +1,42 @@
+{
+    "Hipérbaton": {
+        "Definicion": "Alteración del orden lógico de las palabras en una oración.",
+        "Ejemplo": "Pidió las llaves a la sobrina del aposento."
+    },
+    "Enumeración": {
+        "Definicion": "Sucesión de elementos en una lista o serie.",
+        "Ejemplo": "La boda culminó con una fiesta espectacular, con quinientos invitados en traje de gala, con un escándalo de reses sazonadas con yerbas finas, mariscos frescos, caviar del Báltico, salmón de Noruega, y otras delicias imposibles de recordar."
+    },
+    "Polisíndeton": {
+        "Definicion": "Repetición de más elementos de enlace de los necesarios.",
+        "Ejemplo": "Llamas, dolores, guerras, muertes, asolamientos, fieros males entre tus brazos cierras."
+    },
+    "Asindeton": {
+        "Definicion": "Supresión u omisión de elementos de enlace.",
+        "Ejemplo": "Por vos nací, por vos tengo la vida, por vos he de morir, y por vos muero."
+    },
+    "Anáfora": {
+        "Definicion": "Repetición de una o más palabras al comienzo de varios versos o frases.",
+        "Ejemplo": "Yo te quiero a ti, y a ti, y a ti."
+    },
+    "Paralelismo": {
+        "Definicion": "Repetición de la misma estructura sintáctica de dos o más versos o frases.",
+        "Ejemplo": "Y la carne que tienta con sus frescos racimos, y la tumba que aguarda con sus fúnebres ramos."
+    },
+    "Quiasmo": {
+        "Definicion": "Ordenación cruzada de elementos que quedan colocados como abba y pueden ser antitéticos.",
+        "Ejemplo": "Por casco sus cabellos, su pecho por coraza."
+    },
+    "Anadiplosis": {
+        "Definicion": "Repetición del último elemento de un verso o frase al principio de la frase o del verso siguiente.",
+        "Ejemplo": "Oye no temas, y a mi ninfa dile, dile que me muero."
+    },
+    "Epanadiplosis": {
+        "Definicion": "Repetición de una palabra al principio y al final de un verso o frase.",
+        "Ejemplo": "Yo te quiero, soy yo."
+    },
+    "Elipsis": {
+        "Definicion": "Supresión de una o más palabras.",
+        "Ejemplo": "Por una mirada, un mundo; por una sonrisa, un cielo; por un beso... (yo no sé qué te diera por un beso!)."
+    }
+}

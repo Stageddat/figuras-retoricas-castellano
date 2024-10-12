@@ -1,15 +1,12 @@
 import './estudiar.css'
-import { LoadRfonicos } from './loadrfonicos';
+import { LoadRfonicos } from './loadRfonicos';
+import { LoadRsintacticos } from './loadRsintacticos';
 
 function EstudiarContent() {
     return (
         <div className='recursosContainer'>
             <LoadRfonicos/>
-            <LoadRfonicos/>
-            <LoadRfonicos/>
-            <LoadRfonicos/>
-            <LoadRfonicos/>
-            <LoadRfonicos/>
+            <LoadRsintacticos/>
             </div>
     );
 }
