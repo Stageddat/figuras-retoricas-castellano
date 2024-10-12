@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.parentContainer {
+    @apply w-2/4 rounded-md flex flex-col mx-auto justify-center;
+}
+
+.recursoItem {
+    @apply w-3/4 rounded-md flex flex-col mx-auto justify-center;
+}
+
+.recursoHeader {
+    @apply text-3xl;
+}
+
+.recursoCategoryHeader {
+    @apply text-5xl flex mx-auto justify-center mb-2 underline underline-offset-4;
+}
+
+.recursoDefinicion {
+    @apply text-xl;
+}
+
+.recursoEjemplo {
+    @apply  bg-sky-800 rounded-md p-2 mb-4;
+}
