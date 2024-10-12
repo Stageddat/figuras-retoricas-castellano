@@ -1,0 +1,54 @@
+{
+    "Antítesis/Contraste": {
+        "Definicion": "Contraposición de dos ideas o palabras de significado contrario.",
+        "Ejemplo": "Se upogaron is faroles y se encendieron los grillos"
+    },
+    "Paradoja": {
+        "Definicion": "Coincidencia de dos ideas aparentemente contradictorias que invitan a la reflexión.",
+        "Ejemplo": "Vivo sin vivir en mí, y tan alta vida espero que muero porque no muero."
+    },
+    "Epíteto": {
+        "Definicion": "Adjetivo explicativo, semánticamente innecesario, con un valor ornamental.",
+        "Ejemplo": "La blanca nieve cubría el suelo."
+    },
+    "Símil o Comparación": {
+        "Definicion": "Relación de semejanza que se establece entre dos elementos mediante un nexo comparativo (como, igual que, cual, etc.). El elemento que se compara es el término real (A) y aquel con el que se compara es la imagen (B).",
+        "Ejemplo": "Sus dientes son como perlas."
+    },
+    "Metáfora": {
+        "Definicion": "Identificación entre un elemento real (A) y otro figurado (B) con el que se establece algún tipo de semejanza. No hay nexo de comparación.",
+        "Ejemplo": "Las perlas de su boca."
+    },
+    "Alegoría": {
+        "Definicion": "Sucesión de metáforas relacionadas que dan a entender una cosa expresando otra diferente.",
+        "Ejemplo": "Este mundo es el camino para el otro, que es morada sin pesar."
+    },
+    "Metonimia": {
+        "Definicion": "Sustitución de un elemento real (A) por otro figurado (B) con el que se establece una relación de contigüidad, de inclusión, de proximidad, de causalidad, de procedencia, etc.",
+        "Ejemplo": "Ana fue la alegría de la fiesta."
+    },
+    "Litote": {
+        "Definicion": "Negación de lo contrario de lo que se quiere decir.",
+        "Ejemplo": "No está mal."
+    },
+    "Oxímoron": {
+        "Definicion": "Unión de dos palabras cuyos significados son, o parecen ser, incompatibles.",
+        "Ejemplo": "El silencio ensordecedor."
+    },
+    "Perífrasis": {
+        "Definicion": "Expresar una idea dando un rodeo. No de forma directa",
+        "Ejemplo": "El Supremo creador del cielo y de la tierra (dios)."
+    },
+    "Sinestesia": {
+        "Definicion": "Atribución de cualidades propias de un sentido a cosas que se perciben por otro sentido.",
+        "Ejemplo": "Una dulce voz."
+    },
+    "Personificación": {
+        "Definicion": "Atribución de cualidades humanas a seres inanimados",
+        "Ejemplo": "El sol me besó las mejillas."
+    }   ,
+    "Hipérbole": {
+        "Definicion": "Exageración expresiva de una idea.",
+        "Ejemplo": "Este teléfono es más resistente que el hormigón."
+    }
+}
