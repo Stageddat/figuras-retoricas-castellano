@@ -1,10 +1,8 @@
-import './App.css';
-import './estudiar/estudiar';
-import EstudiarContent from './estudiar/estudiar';
+import '../estudiar/estudiar.css'
 import { useState } from 'react';
-import { ContentType } from '../types/contentType';
-import TestContent from './test/test';
-function App() {
+import { ContentType } from '../../types/contentType';
+
+export function TestContent() {
     // Define what type of content to show
     const [currentContent, setCurrentContent] = useState('default');
 
@@ -16,21 +14,22 @@ function App() {
     // Render the content according to button response
     const renderContent = () => {
         switch (currentContent) {
-            case 'estudiar':
-                return <EstudiarContent />;
-            case 'test':
-                return <TestContent/>;
+            case 'testConNombre':
+                return "testConNombre";
+            case 'testConSignificado':
+                return "testConSignificado";
             default:
                 return (
                     <div id="appContent">
-                        <p className='gameModeText'>Elige modo de juego:</p>
+                        <p className='gameModeText'>Elige modo de prueba:</p>
 
                         <div className='gameModeButtonContainer'>
                             <button
-                            className='gameModeButton'
-                            onClick={() => handleButtonClick("estudiar")}>Estudiar</button>
-                            
-                            <button className='gameModeButton' onClick={() => handleButtonClick("test")} >Práctica</button>
+                                className='gameModeButton'
+                                onClick={() => handleButtonClick("testConNombre")}>Test con nombre</button>
+
+                            <button className='gameModeButton'
+                                onClick={() => handleButtonClick("testConSignificado")}>Test con significado</button>
                         </div>
 
                     </div>
@@ -44,4 +43,5 @@ function App() {
         </>
     )
 }
-export default App
+
+export default TestContent;
