@@ -1,14 +1,10 @@
 {
     "Aliteración": {
-        "Definicion": "Repetición de uno o más sonidos en una palabra o en un enunciado, para conseguir algún efecto sonoro.",
-        "Ejemplo": "Un monte era de miembros eminente"
-    },
-    "Onomatopeya": {
-        "Definicion": "Imitación de sonidos o ruidos de la realidad.",
-        "Ejemplo": "En el silencio solo se escuchaba un susurro de abejas que sonaba."
+        "Definicion": "Repetición de uno o más sonidos en una palabra/frase para conseguir algún efecto sonoro.",
+        "Ejemplo": "Me meo mucho más que antes."
     },
     "Paronomasia": {
-        "Definicion": "Juego fónico conseguido por la proximidad de palabras con sonidos parecidos (parónimas).",
+        "Definicion": "Palabras que se pronuncian/escriben casi igual (Parónimas)",
         "Ejemplo": "Cantemos/Contemos"
     }
 }
