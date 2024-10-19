@@ -1,6 +1,6 @@
 import rsintacticos from '../../db/rsintacticos.json'
 
-export function LoadRsintacticos() {
+export function Rsintacticos() {
     const entries = Object.entries(rsintacticos);
 
     return (

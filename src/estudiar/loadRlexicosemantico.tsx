@@ -1,6 +1,6 @@
 import rlexicosemantico from '../../db/rlexicosemantico.json'
 
-export function LoadRLexicoSemantico() {
+export function RLexicoSemantico() {
     const entries = Object.entries(rlexicosemantico);
 
     return (
