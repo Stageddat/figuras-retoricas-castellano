@@ -1,4 +1,4 @@
-import '../estudiar/estudiar.css'
+// import '../estudiar/estudiar.css'
 import { useState } from 'react';
 import { ContentType } from '../../types/contentType';
 
