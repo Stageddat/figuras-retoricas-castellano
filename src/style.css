@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    font-family: Inter, Arial, sans-serif, system-ui;
+    line-height: 1.5;
+    font-weight: 400;
+
+    color-scheme: light dark;
+    color: rgba(255, 255, 255, 0.87);
+    background-color: #222;
+}
+
+.title {
+    @apply text-3xl font-semibold text-white mb-4 mt-8 flex justify-center items-center;
+    @apply lg:text-6xl xl:mt-2
+}
+
+.gameModeText {
+    @apply text-2xl font-semibold text-gray-400 mb-2 flex justify-center items-center;
+    @apply lg:text-4xl lg:text-red-400;
+}
+
+.gameModeButtonContainer {
+    @apply flex flex-col justify-center items-center;
+}
+
+.gameModeButton {
+    @apply w-3/6 text-2xl font-semibold p-0 text-gray-200 m-1 border-2 border-sky-600 rounded-md hover:bg-sky-600 flex justify-center;
+    @apply lg:w-1/6 lg:text-4xl p-4;
+    background-color: #323338;
+}
+
+/* estudiarContent */
+.parentContainer {
+    @apply w-screen rounded-md flex flex-col mx-auto justify-center;
+    @apply lg:w-2/4 rounded-md flex flex-col mx-auto justify-center;
+}
+
+.recursoItem {
+    @apply w-11/12 rounded-md flex flex-col mx-1;
+    @apply lg:w-3/4 flex flex-col mx-auto justify-center;
+}
+
+.recursoHeader {
+    @apply text-2xl;
+    @apply lg:text-3xl;
+}
+
+.recursoCategoryHeader {
+    @apply text-5xl flex mx-auto justify-center mb-2 underline underline-offset-4;
+}
+
+.recursoDefinicion {
+    @apply text-lg;
+    @apply lg:text-xl;
+}
+
+.recursoEjemplo {
+    @apply bg-sky-800 rounded-md p-2 mb-4;
+    @apply lg:p-2 lg:mb-4;
+}
