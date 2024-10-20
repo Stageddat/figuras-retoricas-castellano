@@ -1,0 +1,138 @@
+{
+    "Aliteración": {
+        "Definicion": "Repetición de uno o más sonidos en una palabra/frase para conseguir algún efecto sonoro.",
+        "Ejemplo": "<strong>M</strong>e <strong>m</strong>eo <strong>m</strong>ucho <strong>m</strong>ás que antes."
+    },
+    "Anadiplosis": {
+        "Definicion": "Repetición del último elemento de una frase/verso al principio del siguiente frase/verso.",
+        "Ejemplo": "Oye no temas, y a mi ninfa <strong>dile</strong>, <br> <strong>dile</strong> que me muero."
+    },
+    "Anáfora": {
+        "Definicion": "Repetición de una o más palabras al comienzo de varios frases/versos.",
+        "Ejemplo": "<strong>Me</strong> quiero,<br><strong>me</strong> deseo."
+    },
+    "Antítesis": {
+        "Definicion": "Contraposición de dos ideas/palabras.",
+        "Ejemplo": "<strong>Se apagaron</strong> los faroles <br> y <strong>se encendieron</strong> los grillos."
+    },
+    "Apóstrofe": {
+        "Definicion": "Dirigirse alguien por su nombre.",
+        "Ejemplo": "<strong>Pipo</strong>, ¿me oyes?"
+    },
+    "Asíndeton": {
+        "Definicion": "Supresión de elementos de enlace.",
+        "Ejemplo": "Llamas, dolores, guerras, muertes"
+    },
+    "Encabalgamiento": {
+        "Definicion": "NO TENGO NIDEA PROFE :D",
+        "Ejemplo": "Elisa, ya el preciado <br> <strong>cabello</strong>, que del oro escarnio hacía, <br> la nieve ha variado."
+    },
+    "Enumeración": {
+        "Definicion": "",
+        "Ejemplo": "Compró <strong>lechuga, pan, huevos y lentejas</strong>."
+    },
+    "Epanadiplosis": {
+        "Definicion": "Repetición de un mismo elemento al principio de una frase/verso y al final de la misma frase/verso.",
+        "Ejemplo": "<strong>Yo</strong> te quiero, soy <strong>yo</strong>."
+    },
+    "Epífora": {
+        "Definicion": "Repetición de una o más palabras al final de varios frases/versos.",
+        "Ejemplo": "Hoy hace buen <strong>día</strong>, <br> y me voy para el <strong>día</strong>."
+    },
+    "Epíteto": {
+        "Definicion": "Adjetivo que no sirve pa na chaval.",
+        "Ejemplo": "Blanca nieve"
+    },
+    "Eufemismo": {
+        "Definicion": "Modo elegante 🗿.",
+        "Ejemplo": "Defecar, fallecer, hacer el amor"
+    },
+    "Hipérbaton": {
+        "Definicion": "Alteración del orden lógico de las palabras en una oración.",
+        "Ejemplo": "Pidió las llaves a la sobrina del aposento."
+    },
+    "Hipálage": {
+        "Definicion": "Atribuir una caualidad/acción de un elemento a otro que realmente no lo hace.",
+        "Ejemplo": "Su barba soplaba al viento."
+    },
+    "Hipérbole": {
+        "Definicion": "Exageración de una idea (básicamente las mujeres bro).",
+        "Ejemplo": "Tanto dolor se agrupa en mi costado, <br> que por doler me duele hasta el aliento."
+    },
+    "Interrogación retórica": {
+        "Definicion": "Nidea, la profe no lo ha explicado xd",
+        "Ejemplo": "¿A dónde se han ido mis ganas de vivir?"
+    },
+    "Ironía": {
+        "Definicion": "Significado contrario de la idea (se necesita contexto).",
+        "Ejemplo": "No me molesta nada que me pongan los cuernos (me molesta)."
+    },
+    "Lítote o Atenuación": {
+        "Definicion": "Negar lo contrario que se quiere decir.",
+        "Ejemplo": "No es listo. (es tonto)"
+    },
+    "Metáfora": {
+        "Definicion": "Cuando un elemento A tiene semajanza con un elemento B",
+        "Ejemplo": "El oro de su cabello."
+    },
+    "Metonimia": {
+        "Definicion": "Sustitución de un elemento A por otro elemento B en que tiene algún tipo de relación",
+        "Ejemplo": "<table><thead><tr><th>Categoría</th><th>Ejemplo</th></tr></thead><tbody><tr><td>Causa por efecto</td><td>Se suicidó por el trabajo</td></tr><tr><td>Efecto por causa</td><td>Se suicidó por el estrés</td></tr><tr><td>Objeto por el lugar donde se produce</td><td>Se bebió un Oporto</td></tr><tr><td>Autor por instrumento</td><td>Es un gran pincel</td></tr><tr><td>Obra por autor</td><td>Tiene un Picasso en casa</td></tr><tr><td>Carácter moral por la realidad física</td><td>No tiene corazón</td></tr><tr><td>Signo/símbolo</td><td>La media luna dominó España</td></tr></tbody></table>"
+    },
+    "Oxímoron": {
+        "Definicion": "Unión de dos palabras que parecen incompatibles.",
+        "Ejemplo": "El sonoro silencio."
+    },
+    "Paradoja": {
+        "Definicion": "Coincidencia de dos ideas contradictorias.",
+        "Ejemplo": "Muero porque no muero."
+    },
+    "Paralelismo": {
+        "Definicion": "Repetición de la misma estructura sintáctica en dos o mas frases/versos.",
+        "Ejemplo": "Y la carne que tienta con sus frescos racimos, <br> y la tumba que aguarda con sus fúnebres ramos."
+    },
+    "Paronomasia": {
+        "Definicion": "Dos parablas que se pronuncian/escribe de forma parecida (parónimas).",
+        "Ejemplo": "<strong>Cantemos</strong>/<strong>contemos</strong>"
+    },
+    "Personificación": {
+        "Definicion": "Dar cualidades humanas a objetos.",
+        "Ejemplo": "Las banderas bailaban con el viento."
+    },
+    "Políptoton": {
+        "Definicion": "nidea, no me he enterado en clase xd",
+        "Ejemplo": "<strong>cas/a, cas/as; cant/o, cant/aba</strong>"
+    },
+    "Polisíndeton": {
+        "Definicion": "Repetición de elementos de enlace que sobran.",
+        "Ejemplo": "Yo te quiero a ti, <strong>y</strong> a ti <strong>y</strong> a ti."
+    },
+    "Pleonasmo": {
+        "Definicion": "nidea teacher",
+        "Ejemplo": "Lo vi con mis propios ojos."
+    },
+    "Quiasmo": {
+        "Definicion": "Ordenación cruzada de elementos que quedan como ABBA.",
+        "Ejemplo": "Por casco sus cabellos, <br> su pecho por coraza."
+    },
+    "Retruécano": {
+        "Definicion": "holy shit what is this",
+        "Ejemplo": "Uno para todos, <br> todos para uno."
+    },
+    "Símil/Comparación": {
+        "Definicion": "Comparar dos elementos con un <strong>nexo de comparación</strong>",
+        "Ejemplo": "Pelo <strong>como</strong> oro."
+    },
+    "Sinécdoque": {
+        "Definicion": "ni puta idea :3",
+        "Ejemplo": "<table> <thead> <tr> <th>Categoría</th> <th>Ejemplo</th> </tr> </thead> <tbody> <tr> <td>La parte por todo</td> <td>Veinte abriles</td> </tr> <tr> <td>Todo por la parte</td> <td>La universidad está revolucionando</td> </tr> <tr> <td>Continente por contenido</td> <td>Tomar unas copas</td> </tr> <tr> <td>Objeto por materia</td> <td>Lo hirió con el hierro</td> </tr> <tr> <td>Singular por plural</td> <td>El niño es un ser indefenso</td> </tr> <tr> <td>N. determinado por N. indeterminado</td> <td>¡Se lo he dicho mil veces!</td> </tr> <tr> <td>Especie por género</td> <td>El animal embistió con furia</td> </tr> <tr> <td>Término de significado amplio por restringido</td> <td>El personal de la fábrica está en huelga</td> </tr> <tr> <td>Abstracto por concreto</td> <td>La ignorancia es atrevida</td> </tr> </tbody></table>"
+    },
+    "Sinestesia": {
+        "Definicion": "Atribución de cualidades de un sentido a otro.",
+        "Ejemplo": "Voz áspera. <br> Palabras frías."
+    },
+    "Zeúgma": {
+        "Definicion": "no fucking idea uwu",
+        "Ejemplo": "Ahora bien, todo el pueblo estaba viendo los truenos y los relampagueos y el sonido del cuerno y la montaña que humeaba."
+    }
+}
