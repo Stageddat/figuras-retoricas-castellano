@@ -35,7 +35,7 @@
 /* estudiarContent */
 .parentContainer {
     @apply w-screen rounded-md flex flex-col mx-auto justify-center;
-    @apply lg:w-2/4 rounded-md flex flex-col mx-auto justify-center;
+    @apply lg:w-8/12 rounded-md flex flex-col mx-auto justify-center;
 }
 
 .recursoItem {
