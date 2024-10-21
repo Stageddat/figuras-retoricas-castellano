@@ -77,7 +77,7 @@
     },
     "Metonimia": {
         "Definicion": "Sustitución de un elemento A por otro elemento B en que tiene algún tipo de relación",
-        "Ejemplo": "<table><thead><tr><th>Categoría</th><th>Ejemplo</th></tr></thead><tbody><tr><td>Causa por efecto</td><td>Se suicidó por el trabajo</td></tr><tr><td>Efecto por causa</td><td>Se suicidó por el estrés</td></tr><tr><td>Objeto por el lugar donde se produce</td><td>Se bebió un Oporto</td></tr><tr><td>Autor por instrumento</td><td>Es un gran pincel</td></tr><tr><td>Obra por autor</td><td>Tiene un Picasso en casa</td></tr><tr><td>Carácter moral por la realidad física</td><td>No tiene corazón</td></tr><tr><td>Signo/símbolo</td><td>La media luna dominó España</td></tr></tbody></table>"
+        "Ejemplo": ""
     },
     "Oxímoron": {
         "Definicion": "Unión de dos palabras que parecen incompatibles.",
@@ -125,7 +125,7 @@
     },
     "Sinécdoque": {
         "Definicion": "ni puta idea :3",
-        "Ejemplo": "<table> <thead> <tr> <th>Categoría</th> <th>Ejemplo</th> </tr> </thead> <tbody> <tr> <td>La parte por todo</td> <td>Veinte abriles</td> </tr> <tr> <td>Todo por la parte</td> <td>La universidad está revolucionando</td> </tr> <tr> <td>Continente por contenido</td> <td>Tomar unas copas</td> </tr> <tr> <td>Objeto por materia</td> <td>Lo hirió con el hierro</td> </tr> <tr> <td>Singular por plural</td> <td>El niño es un ser indefenso</td> </tr> <tr> <td>N. determinado por N. indeterminado</td> <td>¡Se lo he dicho mil veces!</td> </tr> <tr> <td>Especie por género</td> <td>El animal embistió con furia</td> </tr> <tr> <td>Término de significado amplio por restringido</td> <td>El personal de la fábrica está en huelga</td> </tr> <tr> <td>Abstracto por concreto</td> <td>La ignorancia es atrevida</td> </tr> </tbody></table>"
+        "Ejemplo": ""
     },
     "Sinestesia": {
         "Definicion": "Atribución de cualidades de un sentido a otro.",
