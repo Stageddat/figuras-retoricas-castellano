@@ -1,7 +1,6 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import EstudiarContent from './components/estudiarContent';
+import { BrowserRouter as Router } from 'react-router-dom';
 import './style.css';
-import MainContent from './components/mainContent';
+import MainRoute from './routes/mainRoute';
 
 const base = process.env.NODE_ENV === 'production' ? '/recursos-expresivos-castellano' : '';
 
@@ -10,12 +9,7 @@ function App() {
         <Router basename={base}>
             <div>
                 <h1 className="title">FIGURAS RETÓRICAS</h1>
-
-                <Routes>
-                    <Route path="/" element={<MainContent />} />
-                    <Route path="/estudiar" element={<EstudiarContent />} />
-                    {/* <Route path="/practicar" element={<Practicar />} /> */}
-                </Routes>
+                <MainRoute />
             </div>
         </Router>
     );
