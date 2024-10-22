@@ -40,7 +40,7 @@
 
 .recursoItem {
     @apply w-11/12 rounded-md flex flex-col mx-1;
-    @apply lg:w-3/4 flex flex-col mx-auto justify-center;
+    @apply lg:w-6/12 flex flex-col mx-auto justify-center;
 }
 
 .recursoHeader {
@@ -60,4 +60,20 @@
 .recursoEjemplo {
     @apply bg-sky-800 rounded-md p-2 mb-4;
     @apply lg:p-2 lg:mb-4;
+}
+
+.tableContainer {
+    @apply w-full border-0 rounded-md;
+}
+
+.ejemploTable {
+    @apply w-full bg-gray-800 border-collapse border border-gray-700 shadow-lg rounded-lg p-2;
+}
+
+.fileraTable {
+    @apply border-t border-gray-600 px-4 py-2 text-gray-100;
+}
+
+.fileraColorTable {
+    @apply odd:bg-gray-800 even:bg-gray-700;
 }

@@ -20,7 +20,7 @@ export function FigurasRetoricas() {
                         {isMetonimia ? (
                             renderMetonimiaExample()
                         ) : isSinecdoque ? (
-                            renderSinecdoqueExample(value.Ejemplo)
+                            renderSinecdoqueExample()
                         ) : (
                             renderDefaultExample(value.Ejemplo)
                         )}
