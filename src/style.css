@@ -19,7 +19,7 @@
 
 .gameModeText {
     @apply text-2xl font-semibold text-gray-400 mb-2 flex justify-center items-center;
-    @apply lg:text-4xl lg:text-red-400;
+    @apply lg:text-4xl lg:text-white;
 }
 
 .gameModeButtonContainer {
