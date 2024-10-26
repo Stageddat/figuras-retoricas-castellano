@@ -1,7 +1,8 @@
-import figurasRetoricasJSON from '../../db/figurasRetoricas.json'
 import { renderMetonimiaExample, renderSinecdoqueExample, renderDefaultExample } from './renderEjemplos';
+import { loadfigurasRetoricasJSON } from '../utils/loadFigurasRetoricas';
 
 export function FigurasRetoricas() {
+    const figurasRetoricasJSON = loadfigurasRetoricasJSON();
     const entries = Object.entries(figurasRetoricasJSON);
 
     return (
