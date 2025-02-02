@@ -1,12 +1,6 @@
 {
-    "Me meo mucho más que antes.": {
-        "Aliteración": "<strong>M</strong>e <strong>m</strong>eo <strong>m</strong>ucho <strong>m</strong>ás que antes."
-    },
-    "Oye no temas, y a mi ninfa dile,<br>dile que me muero.": {
-        "Anadiplosis": "Oye no temas, y a mi ninfa <strong>dile</strong>,<br><strong>dile</strong> que me muero."
-    },
-    "Y la carne que tienta con sus frescos racimos,<br>y la tumba que aguarda con sus fúnebres ramos.": {
-        "Paralelismo": "<strong>Y la carne</strong> <i>que tienta</i> <strong>con sus frescos racimos</strong>,<br><strong>y la tumba</strong> <i>que aguarda</i> <strong>con sus fúnebres ramos</strong>.",
-        "Anáfora": "<strong>Y</strong> la carne que tienta con sus frescos racimos,<br><strong>y</strong> la tumba que aguarda con sus fúnebres ramos."
-    }
+    "<strong>M</strong>e <strong>m</strong>eo <strong>m</strong>ucho <strong>m</strong>ás que antes.": "Aliteración",
+    "Oye no temas, y a mi ninfa <strong>dile</strong>,<br><strong>dile</strong> que me muero.": "Anadiplosis",
+    "<strong>Y la carne</strong> <i>que tienta</i> <strong>con sus frescos racimos</strong>,<br><strong>y la tumba</strong> <i>que aguarda</i> <strong>con sus fúnebres ramos</strong>.": "Paralelismo",
+    "<strong>Y</strong> la carne que tienta con sus frescos racimos,<br><strong>y</strong> la tumba que aguarda con sus fúnebres ramos.": "Anáfora"
 }

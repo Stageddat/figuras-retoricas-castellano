@@ -28,7 +28,7 @@
         "Ejemplo": "Elisa, ya el preciado <br> <strong>cabello</strong>, que del oro escarnio hacía, <br> la nieve ha variado."
     },
     "Enumeración": {
-        "Definicion": "",
+        "Definicion": "Sucesión de elementos.",
         "Ejemplo": "Compró <strong>lechuga, pan, huevos y lentejas</strong>."
     },
     "Epanadiplosis": {
@@ -60,7 +60,7 @@
         "Ejemplo": "Tanto dolor se agrupa en mi costado, <br> que por doler me duele hasta el aliento."
     },
     "Interrogación retórica": {
-        "Definicion": "Nidea, la profe no lo ha explicado xd",
+        "Definicion": "Pregunta que no se espera una respuesta.",
         "Ejemplo": "¿A dónde se han ido mis ganas de vivir?"
     },
     "Ironía": {
@@ -108,7 +108,7 @@
         "Ejemplo": "Yo te quiero a ti, <strong>y</strong> a ti <strong>y</strong> a ti."
     },
     "Pleonasmo": {
-        "Definicion": "nidea teacher",
+        "Definicion": "Añadir peso en una frase.",
         "Ejemplo": "Lo vi con mis propios ojos."
     },
     "Quiasmo": {
@@ -116,7 +116,7 @@
         "Ejemplo": "Por casco sus cabellos, <br> su pecho por coraza."
     },
     "Retruécano": {
-        "Definicion": "holy shit what is this",
+        "Definicion": "Cambiar el orden para conseguir un contraste o cambiar el sentido de la frase.",
         "Ejemplo": "Uno para todos, <br> todos para uno."
     },
     "Símil/Comparación": {
