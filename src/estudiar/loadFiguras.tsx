@@ -7,7 +7,7 @@ export function FigurasRetoricas() {
 
     return (
         <div className="min-h-screen bg-black py-8 px-1 sm:px-8">
-            <div className="max-w-4xl mx-auto space-y-2">
+            <div className="max-w-4xl mx-auto space-y-6">
                 {entries.map(([key, value], index) => {
                     const isMetonimia = key.startsWith('Metonimia');
                     const isSinecdoque = key.startsWith('Sinécdoque');
