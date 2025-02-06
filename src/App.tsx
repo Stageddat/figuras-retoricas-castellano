@@ -1,12 +1,9 @@
 import { BrowserRouter as Router } from 'react-router-dom';
 import MainRoute from './routes/mainRoute';
 
-// const base = process.env.NODE_ENV === 'production' ? '/recursos-expresivos-castellano' : '';
-const base = '/recursos-expresivos-castellano';
-
 function App() {
     return (
-        <Router basename={base}>
+        <Router>
             <div className="bg-gray-900 min-h-screen">
                 <main>
                     <MainRoute />
