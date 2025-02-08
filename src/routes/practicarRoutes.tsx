@@ -3,11 +3,12 @@ import PracticarMainMenuContent from "../components/practicarMainMenuContent";
 import EjemploQuiz from "../practicar/ejemploQuiz";
 import DefinicionQuiz from "../practicar/definicionQuiz";
 import FiguraQuiz from "../practicar/figuraQuiz";
+import MixQuiz from "../practicar/mixQuiz";
 function PracticarMainMenuRoutes() {
     return (
         <Routes>
             <Route path="/" element={<PracticarMainMenuContent />} />
-            <Route path="/mixto" element={<>mixto xd</>} />
+            <Route path="/mixto" element={<MixQuiz />} />
             <Route path="/nombre" element={<FiguraQuiz />} />
             <Route path="/significado" element={<DefinicionQuiz />} />
             <Route path="/ejemplo" element={<EjemploQuiz />} />
