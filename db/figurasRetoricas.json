@@ -24,7 +24,7 @@
         "Ejemplo": "Llamas, dolores, guerras, muertes"
     },
     "Encabalgamiento": {
-        "Definicion": "NO TENGO NIDEA PROFE :D",
+        "Definicion": "Técnica poética que describe la continuación de una oración en el siguiente verso, estrofa o pareado sin pausa",
         "Ejemplo": "Elisa, ya el preciado <br> <strong>cabello</strong>, que del oro escarnio hacía, <br> la nieve ha variado."
     },
     "Enumeración": {
@@ -100,7 +100,7 @@
         "Ejemplo": "Las banderas bailaban con el viento."
     },
     "Políptoton": {
-        "Definicion": "nidea, no me he enterado en clase xd",
+        "Definicion": "Tipo de derivación en que se emplean palabras de la misma raíz pero diferenciadas en los morfemas flexivos.",
         "Ejemplo": "<strong>cas/a, cas/as; cant/o, cant/aba</strong>"
     },
     "Polisíndeton": {
@@ -124,7 +124,7 @@
         "Ejemplo": "Pelo <strong>como</strong> oro."
     },
     "Sinécdoque": {
-        "Definicion": "ni puta idea :3",
+        "Definicion": "Una parte de algo se utiliza para representar el todo (o viceversa, donde el todo representa a una parte)",
         "Ejemplo": ""
     },
     "Sinestesia": {
@@ -132,7 +132,7 @@
         "Ejemplo": "Voz áspera. <br> Palabras frías."
     },
     "Zeúgma": {
-        "Definicion": "no fucking idea uwu",
-        "Ejemplo": "Ahora bien, todo el pueblo estaba viendo los truenos y los relampagueos y el sonido del cuerno y la montaña que humeaba."
+        "Definicion": "Omitir elementos ya existentes en la oración.",
+        "Ejemplo": "Él bebe té negro, y ella, (bebe té) verde."
     }
 }
